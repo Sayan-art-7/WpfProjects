@@ -16,7 +16,7 @@ public partial class MainWindow : Window
         InitializeComponent();
 
         var version = Assembly.GetExecutingAssembly().GetName().Version;
-        VersionText.Text = $"Текущая версия: {version}";
+        VersionText.Text = "1.9.3.0";
         UrlBox.Text = DefaultUpdateUrl;
 
         
