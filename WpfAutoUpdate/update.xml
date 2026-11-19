@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Пример файла обновления для AutoUpdater.NET.
+  Выложите его на сервер (GitHub Raw, свой хостинг и т.п.) и укажите ссылку в поле окна / в UpdateXmlUrl.
+  <version>  — новая версия (должна быть больше AssemblyVersion приложения)
+  <url>      — ссылка на установщик (.exe/.msi) или .zip с новой сборкой
+  <changelog>— страница со списком изменений (необязательно)
+  <mandatory>— true, если обновление обязательное
+-->
+<item>
+  <version>1.3.0.0</version>
+  <url>https://example.com/downloads/WpfAutoUpdate_1.3.0.zip</url>
+  <changelog>https://example.com/changelog.html</changelog>
+  <mandatory>false</mandatory>
+</item>

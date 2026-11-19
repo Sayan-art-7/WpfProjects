@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WpfApi/WpfApi.csproj" />
+  <Project Path="WpfAutoUpdate/WpfAutoUpdate.csproj" />
+  <Project Path="WpfWebView/WpfWebView.csproj" />
+</Solution>
