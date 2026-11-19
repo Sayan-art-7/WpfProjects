@@ -8,7 +8,7 @@
   <mandatory>— true, если обновление обязательное
 -->
 <item>
-  <version>1.9.3.0</version>
+  <version>1.9.4.0</version>
   <url>https://github.com/Sayan-art-7/WpfProjects/releases/download/n/WpfAutoUpdate.zip</url>
   <changelog>https://example.com/changelog.html</changelog>
   <mandatory>false</mandatory>
